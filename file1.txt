@@ -5,7 +5,7 @@ NEW Bla blaaaa 231457819
 12345 67890
 
 
-Добавил ssh ключ и теперь пушу в гитхаб/ я красавец, конечно another line from user1
+Добавил ssh ключ и теперь пушу в гитхаб/ я красавец, конечно line from user2
 
 
 Sdfhfshsdhfsjdfhsdf
